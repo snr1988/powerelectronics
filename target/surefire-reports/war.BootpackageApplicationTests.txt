@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: war.BootpackageApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.015 sec - in war.BootpackageApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.062 sec - in war.BootpackageApplicationTests
